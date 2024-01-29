@@ -16,11 +16,8 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#donations">Donations</a></li>
   </ol>
 </details>
 
@@ -102,46 +99,6 @@ _More scripts at package.json_
    yarn deploy
    ```
    If needed, you can debug express using `yarn api-debug`. <br>More builds scripts at `./package.json`. <br>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-You can import the Insomnia routes via file `./backend/db/routes-collection.json` and import the mongodb collections via file `./backend/db/routes-collection`. <br>Below are the implemented routes: you also can view them inside `./backend/routes` folder or through the Swagger documentation at `http://localhost:3000/api-docs/`.
-
-```js
--------------------------------
--------- [USER ROUTES] --------
--------------------------------
-[GET] localhost:3000/api/users -> 'getAll'
-[GET] localhost:3000/api/users/{id} -> 'getOne'
-[POST] localhost:3000/api/users -> 'create'
-[PUT] localhost:3000/api/users/{id} -> 'update'
-[DELETE] localhost:3000/api/users/{id}-> 'remove'
-[POST] localhost:3000/api/users/authenticate -> 'authenticate'
-[GET] localhost:3000/api/user/exists/{email}/ -> 'checkIfEmailExists'
-[PUT] localhost:3000/api/users/changePassword/{id} -> 'changePassword'
-[POST] localhost:3000/api/users/refreshToken -> 'refreshToken'
-[POST] localhost:3000/api/users/logout -> 'logout'
-
--------------------------------
--------- [TASK ROUTES] --------
--------------------------------
-[GET] localhost:3000/api/tasks?pageSize&searchTerm&pageIndex&sortFilter&sortDirection&startDate&finalDate -> 'getAll'
-[GET] localhost:3000/api/tasks/{id} -> 'getOne'
-[POST] localhost:3000/api/tasks -> 'create'
-[PUT] localhost:3000/api/tasks/{id} -> 'update'
-[DELETE] localhost:3000/api/tasks/{id}-> 'remove'
-
--------------------------------
------- [CATEGORY ROUTES] ------
--------------------------------
-[GET] localhost:3000/api/categories?onlyMine -> 'getAll'
-[POST] localhost:3000/api/categories -> 'create'
-[DELETE] localhost:3000/api/categories/{id} -> 'remove'
-```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
