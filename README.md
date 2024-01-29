@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/rinaldilucas/mean-task-manager">
+  <a href="https://github.com/ahmed00078/Task-manager.git">
     <img src="./frontend/assets/images/_readme/logo.png" alt="Logo">
   </a>
 
@@ -17,14 +17,12 @@
   <p align="center">
     Project built using Angular, NodeJS, Express.j and MongoDB<br> with Angular Material to jump start your studies!
     <br />
-    <a href="https://github.com/rinaldilucas/mean-task-manager"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ahmed00078/Task-manager.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://rinaldilucas.github.io/mean-task-manager/">View App*</a>
+    <a href="https://github.com/ahmed00078/Task-manager.git">View App*</a>
     ·
     <a href="https://mean-task-manager.onrender.com/api-docs">API Docs*</a>
-    ·
-    <a href="#donations">Donate</a>       
   </p>
   <small>
     * hosted on render.com free tier, so API need a little time to start after accessing
@@ -40,8 +38,6 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#backend">Backend</a></li>
-        <li><a href="#frontend">Frontend</a></li>
         <li><a href="#built-with">Built With</a></li>
         <li><a href="#hosting">Hosting</a></li>
       </ul>
@@ -63,78 +59,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
-
-<div align="center">
-
-[![Project Screenshot][project-screenshot]](https://rinaldilucas.github.io/mean-task-manager)
-
-</div>
-
-I built this project to make a cool template for those who wants to learn the MEAN stack. If this repository helped you, don't hesitate to leave a star!
-
-Here are some of the features:
-
-### Backend
-
-- Node.js API written with TypeScript
-- Search, ordering and pagination integrate with frontend to shorten response sizes
-- JWT implementation with refresh token using Redis and cookies on strict mode
-- Blacklist of access/refresh token
-- Password encryption using bcrypt with salt rounds
-- Authentication with brute force prevention using ExpressBrute
-- Error handling to maintain error readability
-- Backend (API) validation on controllers and routes using express-validator, which improves error readability using third-party software such as Insomnia and Postman
-- Database and model validation using mongoose
-- API documentation using Swagger
-- ESlint rules focused on backend
-- Multiple scripts to facilitate development, builds and deployment
-- Scripts to format, lint, debug, develop, build and deploy
-- And more
-
-### Frontend
-
-- Multilingual features implemented in both the client-side and API responses
-- Examples of autocomplete, mat-chips, calendar, dialogs, bottomsheet and more
-- Routed bottom sheet example implemented using only one component
-- Virtual scrolling with pagination, ordering and search integrated with api to shorten response sizes
-- Charts using chart.js library
-- Angular routing animations using dynamic params
-- Authentication and role guard
-- Deactivate guard to prevent the user of discarding changes
-- Multiple examples of synchronous custom validators
-- Multiple handlers to ease the use of dialogs, bottomsheets, snackbars and more
-- Custom async validator to check already registered user
-- Registering using password techniques
-- Example using functional resolvers with loading on routes
-- Interceptor modules added to verify bearer token, errors, and headers language
-- Front-end validation on requests and inputs
-- Handler of promises and errors using destructuring
-- Improved http security using HttpParams
-- Unsubscriber component with subsink to facilitate the maneuvering of unsubscribes
-- CRUD operations built using POO paradigms, allowing services to inherit its operations
-- Example of custom pipes to convert date to selected language
-- Example of custom directive to prevent form autofill
-- Dark mode using browser cookies
-- SCSS algorithm which uses rem unit to maintain aspect ratio
-- Stylesheets written using BEM methodology
-- Custom SCSS structure to improve reusability
-- Material components are overwritten to support rem unit and improve mobile/table compatibility coding less
-- Improved readability on media queries using include-media library
-- ESlint rules focused on frontend, like keyboard accessibility, ARIA, focus and accessible HTML
-- Input validators with multilingual features added
-- Implementation of sass-lint which guarantees the order of css properties, maintaining the writing pattern and avoiding unnecessary code revisions
-- Prettier rules implemented to improve code readability
-- Multiple scripts to facilitate development, builds and deployment
-- Custom folder structure organized by responsibility
-- Scripts to format, lint, debug, develop, build and deploy
-- And more
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ### Built With
-
-This section shows what technologies are used in this particular project.
 
 - [Angular](https://angular.io/)
 - [NodeJS](https://nodejs.org/en/)
@@ -191,7 +116,7 @@ _More scripts at package.json_
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/rinaldilucas/mean-task-manager.git
+   git clone https://github.com/ahmed00078/Task-manager.git
    ```
 2. Install NPM packages via yarn
    ```sh
@@ -278,50 +203,10 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for more information
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- CONTACT -->
 
-## Contact
-
-[![Website](https://img.shields.io/badge/-Website-0078D4?style=flat-square&logo=html5&logoColor=white&link=https://lucasreinaldi.com.br)](https://rinaldilucas.com)
-[![Github](https://img.shields.io/badge/-Github-967bb5?style=flat-square&labelColor=967bb5&logo=github&logoColor=white&link=https://github.com/rinaldilucas)](https://github.com/rinaldilucas)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasreinaldi@gmail.com)](mailto:lucasreinaldi@gmail.com)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:lucasreinaldi@hotmail.com)](mailto:lucasreinaldi@hotmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rinaldilucas/)](https://www.linkedin.com/in/rinaldilucas/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/rinaldilucas)](https://t.me/rinaldilucas)
-
-Project Link: [https://github.com/rinaldilucas/mean-task-manager](https://github.com/rinaldilucas/mean-task-manager)
+Project Link: [https://github.com/ahmed00078/Task-manager.git](https://github.com/ahmed00078/Task-manager.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
-
-## Donations
-
-If you feel that this project has helped you in any way, whether it's attracting clients or teaching you about the technologies used, feel free to make a donation.
-It helps me a lot to continue developing open source codes.
-
-- Metamask (USDT):
-  ```sh
-  0xA0410641515F06fF6a9AdAFf1c3e90a3905ba271
-  ```
-- PIX (BRL):
-  ```sh
-  72140bc8-fadc-42f5-abb6-9c13cc80a59f
-  ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/rinaldilucas/mean-task-manager.svg?style=for-the-badge
-[contributors-url]: https://github.com/rinaldilucas/mean-task-manager/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/rinaldilucas/mean-task-manager.svg?style=for-the-badge
-[forks-url]: https://github.com/rinaldilucas/mean-task-manager/network/members
-[stars-shield]: https://img.shields.io/github/stars/rinaldilucas/mean-task-manager.svg?style=for-the-badge
-[stars-url]: https://github.com/rinaldilucas/mean-task-manager/stargazers
-[license-shield]: https://img.shields.io/github/license/rinaldilucas/mean-task-manager.svg?style=for-the-badge
-[license-url]: https://github.com/rinaldilucas/mean-task-manager/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/rinaldilucas/
-[project-screenshot]: ./frontend/assets/images/_readme/screenshot.gif
