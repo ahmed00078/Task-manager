@@ -1,36 +1,3 @@
-<div id="top"></div>
-
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/ahmed00078/Task-manager.git">
-    <img src="./frontend/assets/images/_readme/logo.png" alt="Logo">
-  </a>
-
-  <h3 align="center">MEAN Stack Task Manager</h3>
-
-  <p align="center">
-    Project built using Angular, NodeJS, Express.j and MongoDB<br> with Angular Material to jump start your studies!
-    <br />
-    <a href="https://github.com/ahmed00078/Task-manager.git"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/ahmed00078/Task-manager.git">View App*</a>
-    ·
-    <a href="https://mean-task-manager.onrender.com/api-docs">API Docs*</a>
-  </p>
-  <small>
-    * hosted on render.com free tier, so API need a little time to start after accessing
-  </small>
-  <br>
-  <br>
-</div>
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -205,8 +172,5 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for more information
 
 
 Project Link: [https://github.com/ahmed00078/Task-manager.git](https://github.com/ahmed00078/Task-manager.git)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
